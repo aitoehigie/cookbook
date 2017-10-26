@@ -8,5 +8,5 @@ Ingredients:
 Directions:
 1. Heat the marshmallow over an open flame until it begins to brown and melt.
 2. Break the graham cracker in half. Sandwich the chocolate between the cracker and the hot marshmallow. Allow the marshmallow to cool a moment before eating.
+3. Add chocolate
 
-This is a recipe on nightly branch
